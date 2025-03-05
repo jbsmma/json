@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 68,
   "data": [
     {
       "title": "60-Second Stress Busters: Instant Techniques for Calming Your Mind and Body",
@@ -10,6 +10,11 @@
       "title": "Anxiety Relief, Unlocked: The Healing Power of Therapy",
       "slug": "anxiety-relief-therapy",
       "category": "treatment"
+    },
+    {
+      "title": "True to Yourself: Authenticity and Mental Harmony Through Values",
+      "slug": "authenticity-mental-harmony-values",
+      "category": "identity"
     },
     {
       "title": "Wired to Connect: The Biology of Belonging and Well-being",
@@ -42,6 +47,11 @@
       "category": "essentials"
     },
     {
+      "title": "Deconstructing Mental Health: A Look at the Key Elements for Well-being",
+      "slug": "deconstructing-mental-health-key-elements",
+      "category": "essentials"
+    },
+    {
       "title": "Digital Detox, Real Connection: Reclaim Your Mind in an Online World",
       "slug": "digital-detox-real-connection",
       "category": "relationships"
@@ -65,6 +75,11 @@
       "title": "Gut Feelings Decoded: The Science of Microbiota and Mood",
       "slug": "gut-microbiota-mood-science",
       "category": "nutrition"
+    },
+    {
+      "title": "Living on Purpose: Values as a Foundation for Mental Well-being",
+      "slug": "living-on-purpose-values-wellbeing",
+      "category": "identity"
     },
     {
       "title": "The Quiet Epidemic: Loneliness and Our Mental Well-being",
@@ -135,6 +150,16 @@
       "title": "Toxic Ties: How Social Connections Can Secretly Crush Your Mental Health",
       "slug": "toxic-ties-mental-health",
       "category": "relationships"
+    },
+    {
+      "title": "Your Values Compass: Charting Your Course to Mental Wellness",
+      "slug": "values-compass-guiding-life-mental-health",
+      "category": "identity"
+    },
+    {
+      "title": "What Does “Being Mentally Healthy” Really Mean? A Comprehensive Guide",
+      "slug": "what-being-mentally-healthy-mean",
+      "category": "essentials"
     }
   ]
 }
