@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 74,
   "data": [
     {
       "title": "60-Second Stress Busters: Instant Techniques for Calming Your Mind and Body",
@@ -72,6 +72,11 @@
       "category": "essentials"
     },
     {
+      "title": "Finding Your Core: A Guide to Discovering Your Values for Wellness",
+      "slug": "finding-core-values-wellness-guide",
+      "category": "essentials"
+    },
+    {
       "title": "Gut Feelings Decoded: The Science of Microbiota and Mood",
       "slug": "gut-microbiota-mood-science",
       "category": "nutrition"
@@ -85,6 +90,11 @@
       "title": "The Quiet Epidemic: Loneliness and Our Mental Well-being",
       "slug": "loneliness-epidemic",
       "category": "relationships"
+    },
+    {
+      "title": "Meaning and Values: Finding Purpose Through Your Core Beliefs",
+      "slug": "meaning-values-finding-purpose",
+      "category": "inspiration"
     },
     {
       "title": "Mental Health 101: Your Introductory Guide to Well-being",
@@ -150,6 +160,16 @@
       "title": "Toxic Ties: How Social Connections Can Secretly Crush Your Mental Health",
       "slug": "toxic-ties-mental-health",
       "category": "relationships"
+    },
+    {
+      "title": "Values-Based Choices: Decisions That Support Your Mental Health",
+      "slug": "values-based-choices-mental-health",
+      "category": "self-care"
+    },
+    {
+      "title": "When Values Clash: The Stress of Living Out of Alignment",
+      "slug": "values-clash-stress-guide",
+      "category": "essentials"
     },
     {
       "title": "Your Values Compass: Charting Your Course to Mental Wellness",
