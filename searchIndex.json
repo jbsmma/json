@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 60,
   "data": [
     {
       "title": "60-Second Stress Busters: Instant Techniques for Calming Your Mind and Body",
@@ -57,6 +57,11 @@
       "category": "relationships"
     },
     {
+      "title": "The Many Facets of Mental Health: Exploring Emotional, Psychological, and Social Well-being",
+      "slug": "facets-of-mental-health-wellbeing",
+      "category": "essentials"
+    },
+    {
       "title": "Gut Feelings Decoded: The Science of Microbiota and Mood",
       "slug": "gut-microbiota-mood-science",
       "category": "nutrition"
@@ -65,6 +70,11 @@
       "title": "The Quiet Epidemic: Loneliness and Our Mental Well-being",
       "slug": "loneliness-epidemic",
       "category": "relationships"
+    },
+    {
+      "title": "Mental Health 101: Your Introductory Guide to Well-being",
+      "slug": "mental-health-101-wellbeing",
+      "category": "essentials"
     },
     {
       "title": "Mental Health Defined: A Comprehensive Overview for Beginners",
